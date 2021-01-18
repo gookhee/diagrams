@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T23:44:28.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Zj22iQbaWoZgGIYEYiIM" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T23:48:18.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="kCK30T1gejIHP9Nhmibk" version="14.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2112" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
               <mxPoint x="450" y="400" />
               <mxPoint x="1020" y="400" />
               <mxPoint x="1020" y="470" />
-              <mxPoint x="1309" y="470" />
+              <mxPoint x="1284" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -663,7 +663,7 @@
         <mxCell id="_1q0dkuOW4hVHXK4jOnH-26" value="map(input, locale)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_1q0dkuOW4hVHXK4jOnH-23">
           <mxGeometry y="34" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_1q0dkuOW4hVHXK4jOnH-126" value="연두색을 데이터 타입" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_1q0dkuOW4hVHXK4jOnH-126" value="연두색은 데이터 타입" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#E6FFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1064.99" y="40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
