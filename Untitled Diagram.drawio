@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T06:57:23.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="9-_ysLeC7vC1wVr6rdxt" version="14.7.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-15T08:48:28.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="7rIhA4BshK8sGbNJqSZd" version="14.7.8" type="github" pages="2">
   <diagram id="00v8cj8Fdp33nUqMAuFc" name="Page-1">
     <mxGraphModel dx="705" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,24 +134,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oKqIJiOsQRa1msyX4qbT-1" source="oKqIJiOsQRa1msyX4qbT-41" target="oKqIJiOsQRa1msyX4qbT-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-47" value="90003" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oKqIJiOsQRa1msyX4qbT-46">
-          <mxGeometry x="-0.25" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oKqIJiOsQRa1msyX4qbT-1" source="oKqIJiOsQRa1msyX4qbT-41" target="oKqIJiOsQRa1msyX4qbT-48">
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oKqIJiOsQRa1msyX4qbT-1" source="oKqIJiOsQRa1msyX4qbT-41" target="oKqIJiOsQRa1msyX4qbT-55">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="950" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="265" y="910" />
-              <mxPoint x="365" y="910" />
+              <mxPoint x="110" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-50" value="90004" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oKqIJiOsQRa1msyX4qbT-49">
-          <mxGeometry x="0.3429" relative="1" as="geometry">
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-47" value="statusCode = 403" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oKqIJiOsQRa1msyX4qbT-46">
+          <mxGeometry x="-0.25" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-54" value="기타 에러" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="oKqIJiOsQRa1msyX4qbT-1" source="oKqIJiOsQRa1msyX4qbT-41" target="oKqIJiOsQRa1msyX4qbT-48">
+          <mxGeometry x="0.3737" y="-20" relative="1" as="geometry">
+            <mxPoint x="285" y="880" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="380" y="870" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -163,27 +164,42 @@
             <mxPoint x="265" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-43" value="미션달성 X" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;" edge="1" source="oKqIJiOsQRa1msyX4qbT-41" parent="oKqIJiOsQRa1msyX4qbT-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-43" value="미션달성 X" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" source="oKqIJiOsQRa1msyX4qbT-41" parent="oKqIJiOsQRa1msyX4qbT-1" target="oKqIJiOsQRa1msyX4qbT-48">
+          <mxGeometry x="0.5122" y="30" relative="1" as="geometry">
             <mxPoint x="365" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="870" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-44" value="미션달성 O" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;" edge="1" source="oKqIJiOsQRa1msyX4qbT-41" parent="oKqIJiOsQRa1msyX4qbT-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-44" value="미션달성 O" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;entryX=0.317;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="oKqIJiOsQRa1msyX4qbT-41" parent="oKqIJiOsQRa1msyX4qbT-1" target="oKqIJiOsQRa1msyX4qbT-55">
+          <mxGeometry x="0.559" y="-27" relative="1" as="geometry">
             <mxPoint x="165" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="870" />
+              <mxPoint x="170" y="920" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-45" value="오늘의 미션 정보" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="oKqIJiOsQRa1msyX4qbT-1">
-          <mxGeometry x="120" y="930" width="140" height="40" as="geometry" />
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-45" value="오늘의 미션 정보 캐시를 갱신한다?" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="oKqIJiOsQRa1msyX4qbT-1">
+          <mxGeometry x="20" y="1030" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oKqIJiOsQRa1msyX4qbT-48" value="처리 X" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="oKqIJiOsQRa1msyX4qbT-1">
-          <mxGeometry x="295" y="930" width="140" height="40" as="geometry" />
+          <mxGeometry x="295" y="960" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oKqIJiOsQRa1msyX4qbT-51" value="&lt;font style=&quot;font-size: 10px&quot;&gt;90003:&amp;nbsp;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; letter-spacing: -0.07999999821186066px ; background-color: rgb(255 , 255 , 255)&quot;&gt;오늘 수행할 퀘스트 액션 X&lt;br&gt;90004: 퀘스트 수행 유저 X, 국가가 한국이 아님 X&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;" vertex="1" parent="oKqIJiOsQRa1msyX4qbT-1">
           <mxGeometry y="770" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-52" value="error code" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="oKqIJiOsQRa1msyX4qbT-51">
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-52" value="status code: 403 error code" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="oKqIJiOsQRa1msyX4qbT-51">
           <mxGeometry width="160" height="25" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oKqIJiOsQRa1msyX4qbT-1" source="oKqIJiOsQRa1msyX4qbT-55" target="oKqIJiOsQRa1msyX4qbT-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-55" value="오늘의 미션 정보 캐시를 삭제한다" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="oKqIJiOsQRa1msyX4qbT-1">
+          <mxGeometry x="20" y="960" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
