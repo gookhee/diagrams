@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T09:03:29.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="3naql3JNhHr9dHA3xpVZ" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T09:04:08.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="RektaMX_jy9nhm2jLYr2" version="14.7.8" type="github">
   <diagram id="GfeuRMPr9Bc08lo4q1Z1" name="Onboarding Quest Action">
     <mxGraphModel dx="728" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
           <mxGeometry x="145" y="1030" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oKqIJiOsQRa1msyX4qbT-51" value="&lt;font style=&quot;font-size: 10px&quot;&gt;90003:&amp;nbsp;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; letter-spacing: -0.07999999821186066px ; background-color: rgb(255 , 255 , 255)&quot;&gt;오늘 수행할 퀘스트 액션 X&lt;br&gt;90004: 퀘스트 수행 유저 X, 국가가 한국이 아님 X&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;" parent="oKqIJiOsQRa1msyX4qbT-1" vertex="1">
-          <mxGeometry y="770" width="160" height="80" as="geometry" />
+          <mxGeometry y="900" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oKqIJiOsQRa1msyX4qbT-52" value="status code: 403 error code" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" parent="oKqIJiOsQRa1msyX4qbT-51" vertex="1">
           <mxGeometry width="160" height="25" relative="1" as="geometry" />
