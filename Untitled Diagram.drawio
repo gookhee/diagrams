@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T07:09:40.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="aH52DSPZm3FV30cO6tZN" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T07:10:49.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="imRDMqWX1qd6ioRvv-LL" version="14.7.4" type="github">
   <diagram id="GfeuRMPr9Bc08lo4q1Z1" name="Onboarding Quest Action">
     <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,11 +64,6 @@
             <mxPoint x="415" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GmmC5eckfq9Hk3q0JXam-0" value="오늘의 미션 정보가 있음" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oKqIJiOsQRa1msyX4qbT-29" connectable="0" vertex="1">
-          <mxGeometry x="0.4" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oKqIJiOsQRa1msyX4qbT-30" value="오늘 미션의 &amp;nbsp;action이 아님" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;startArrow=none;" parent="oKqIJiOsQRa1msyX4qbT-1" source="oKqIJiOsQRa1msyX4qbT-18" edge="1">
           <mxGeometry y="-144" relative="1" as="geometry">
             <mxPoint x="590" y="770" as="targetPoint" />
@@ -81,7 +76,7 @@
         <mxCell id="oKqIJiOsQRa1msyX4qbT-32" value="" style="shape=rhombus;html=1;verticalLabelPosition=bottom;verticalAlignment=top;" parent="oKqIJiOsQRa1msyX4qbT-1" vertex="1">
           <mxGeometry x="395" y="600" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oKqIJiOsQRa1msyX4qbT-33" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;align=right;verticalAlign=bottom;endArrow=none;rounded=0;labelBackgroundColor=none;startArrow=open;startSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="oKqIJiOsQRa1msyX4qbT-1" source="oKqIJiOsQRa1msyX4qbT-32" target="oKqIJiOsQRa1msyX4qbT-28" edge="1">
+        <mxCell id="oKqIJiOsQRa1msyX4qbT-33" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;align=right;verticalAlign=bottom;endArrow=none;rounded=0;labelBackgroundColor=none;startArrow=open;startSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="oKqIJiOsQRa1msyX4qbT-1" source="oKqIJiOsQRa1msyX4qbT-32" target="oKqIJiOsQRa1msyX4qbT-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415" y="560" as="targetPoint" />
           </mxGeometry>
