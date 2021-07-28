@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T11:39:43.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="Fzzy_-1tJOxrHRhEIVzp" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-05T11:41:25.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="NwAHfzDl8Ji9GZBl1Q1_" version="14.9.2" type="github" pages="5">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1057" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -151,30 +151,6 @@
       <root>
         <mxCell id="TrnmHSG4BdzwyE5MJGU8-0" />
         <mxCell id="TrnmHSG4BdzwyE5MJGU8-1" parent="TrnmHSG4BdzwyE5MJGU8-0" />
-        <mxCell id="TrnmHSG4BdzwyE5MJGU8-3" value="WalkthroughViewController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-1">
-          <mxGeometry x="110" y="70" width="160" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="TrnmHSG4BdzwyE5MJGU8-4" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-3">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="TrnmHSG4BdzwyE5MJGU8-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-3">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="TrnmHSG4BdzwyE5MJGU8-6" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-3">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="TrnmHSG4BdzwyE5MJGU8-7" value="WalkthroughViewModel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-1">
-          <mxGeometry x="330" y="60" width="160" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="TrnmHSG4BdzwyE5MJGU8-8" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-7">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="TrnmHSG4BdzwyE5MJGU8-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-7">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="TrnmHSG4BdzwyE5MJGU8-10" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-7">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="TrnmHSG4BdzwyE5MJGU8-12" value="&lt;span style=&quot;font-weight: bold&quot;&gt;WalkthroughViewController&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-1">
           <mxGeometry x="80" y="290" width="170" height="720" as="geometry" />
         </mxCell>
@@ -289,6 +265,144 @@
         <mxCell id="TrnmHSG4BdzwyE5MJGU8-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="TrnmHSG4BdzwyE5MJGU8-1">
           <mxGeometry x="1310" y="830" width="10" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YExwbkYfZ-909aZ963nh" name="Facebook signup">
+    <mxGraphModel dx="1057" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="OJbX6PTRtBSj1pZ_Wsae-0" />
+        <mxCell id="OJbX6PTRtBSj1pZ_Wsae-1" parent="OJbX6PTRtBSj1pZ_Wsae-0" />
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-0" value="&lt;span style=&quot;font-weight: bold&quot;&gt;WalkthroughViewController&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="80" y="290" width="170" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-1" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(28 , 70 , 74) ; background-color: rgb(255 , 255 , 255)&quot;&gt;FacebookLoginHelper&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="320" y="290" width="170" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="AueLEDbDGfQYcLZg3Gd8-1">
+          <mxGeometry x="75.5" y="110" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-3" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85) ; font-size: 12px&quot;&gt;touchFacebookStartButton()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85) ; font-size: 12px&quot;&gt;&amp;gt;&amp;nbsp;&lt;span style=&quot;color: rgb(50 , 109 , 116)&quot;&gt;doFacebookLogin()&lt;/span&gt;&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="OJbX6PTRtBSj1pZ_Wsae-1" source="AueLEDbDGfQYcLZg3Gd8-0" target="AueLEDbDGfQYcLZg3Gd8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-4" value="&lt;span style=&quot;font-weight: bold&quot;&gt;WalkthroughViewModel&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="540" y="290" width="160" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-5" value="&lt;span style=&quot;color: rgb(50 , 109 , 116) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12px&quot;&gt;handleResultOfFacebookLogin()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="OJbX6PTRtBSj1pZ_Wsae-1" source="AueLEDbDGfQYcLZg3Gd8-1" target="AueLEDbDGfQYcLZg3Gd8-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="440" as="sourcePoint" />
+            <mxPoint x="380" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="160" y="520" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-7" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;exitX=0.8;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OJbX6PTRtBSj1pZ_Wsae-1" source="AueLEDbDGfQYcLZg3Gd8-6" target="AueLEDbDGfQYcLZg3Gd8-4">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="340" y="440" as="sourcePoint" />
+            <mxPoint x="610" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="603" />
+              <mxPoint x="490" y="603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-8" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="AueLEDbDGfQYcLZg3Gd8-7">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-9" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(50 , 109 , 116)&quot;&gt;handleResultOfFacebookLogin()&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AueLEDbDGfQYcLZg3Gd8-7">
+          <mxGeometry x="-0.2602" y="2" relative="1" as="geometry">
+            <mxPoint x="65" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-10" value="기존 페이스북 회원의 로그인 성공케이스" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="90" y="230" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-11" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(28 , 70 , 74) ; background-color: rgb(255 , 255 , 255)&quot;&gt;GraphRequest&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="740" y="290" width="150" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="615" y="600" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-13" value="start()" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="OJbX6PTRtBSj1pZ_Wsae-1" target="AueLEDbDGfQYcLZg3Gd8-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="625" y="680" as="sourcePoint" />
+            <mxPoint x="785" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-14" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85) ; background-color: rgb(255 , 255 , 255)&quot;&gt;AuthenticationHelper&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="950" y="290" width="200" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="810" y="680" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=-0.2;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OJbX6PTRtBSj1pZ_Wsae-1" source="AueLEDbDGfQYcLZg3Gd8-15" target="AueLEDbDGfQYcLZg3Gd8-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1040" y="530" as="sourcePoint" />
+            <mxPoint x="1200" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-17" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(50 , 109 , 116)&quot;&gt;doAuthentication()&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AueLEDbDGfQYcLZg3Gd8-16">
+          <mxGeometry x="-0.0973" y="3" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-18" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85) ; background-color: rgb(255 , 255 , 255)&quot;&gt;UserAuthenticationService&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="1200" y="290" width="230" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="1045" y="760" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-20" value="request(.signIn)" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.9;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OJbX6PTRtBSj1pZ_Wsae-1" source="AueLEDbDGfQYcLZg3Gd8-19" target="AueLEDbDGfQYcLZg3Gd8-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1040" y="530" as="sourcePoint" />
+            <mxPoint x="1200" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="880" y="760" as="sourcePoint" />
+            <mxPoint x="1040" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-22" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="OJbX6PTRtBSj1pZ_Wsae-1" source="AueLEDbDGfQYcLZg3Gd8-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1315" y="970" as="sourcePoint" />
+            <mxPoint x="630" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-23" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgba(0 , 0 , 0 , 0.85)&quot;&gt;receivedSuccess()&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AueLEDbDGfQYcLZg3Gd8-22">
+          <mxGeometry x="0.0617" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AueLEDbDGfQYcLZg3Gd8-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="OJbX6PTRtBSj1pZ_Wsae-1">
+          <mxGeometry x="1310" y="830" width="10" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZkHJx16GihPronf6DQ2g" name="Facebook logout">
+    <mxGraphModel dx="1057" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="C8hVERgGc4LPlgR3QAZX-0" />
+        <mxCell id="C8hVERgGc4LPlgR3QAZX-1" parent="C8hVERgGc4LPlgR3QAZX-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DzD0dWhoEGHHuyM6-TuS" name="Facebook 탈퇴">
+    <mxGraphModel dx="1057" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="zTMkT_i8QF6g7CHtRBqC-0" />
+        <mxCell id="zTMkT_i8QF6g7CHtRBqC-1" parent="zTMkT_i8QF6g7CHtRBqC-0" />
       </root>
     </mxGraphModel>
   </diagram>
