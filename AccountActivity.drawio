@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T00:52:03.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="yOVlbOa4IzXNw8gXyPDz" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-08-05T04:48:47.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="n_HoMPmrqaLwDm0d5AZa" version="14.8.0" type="github" pages="5">
   <diagram id="i1lQdOyH62CmWCrgiDlv" name="Facebook login Sequence Diagram">
     <mxGraphModel dx="651" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,8 +268,8 @@
       <root>
         <mxCell id="u_kTxpH61WWehxEOvNpR-0" />
         <mxCell id="u_kTxpH61WWehxEOvNpR-1" parent="u_kTxpH61WWehxEOvNpR-0" />
-        <mxCell id="u_kTxpH61WWehxEOvNpR-3" value="로그인 Activity diagram&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="u_kTxpH61WWehxEOvNpR-1" vertex="1">
-          <mxGeometry x="80" y="30" width="130" height="20" as="geometry" />
+        <mxCell id="u_kTxpH61WWehxEOvNpR-3" value="페이스북 로그인 Activity diagram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="u_kTxpH61WWehxEOvNpR-1" vertex="1">
+          <mxGeometry x="55" y="30" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="znTexVbTJGctxC3_0h5k-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="u_kTxpH61WWehxEOvNpR-1" vertex="1">
           <mxGeometry x="480" width="30" height="30" as="geometry" />
