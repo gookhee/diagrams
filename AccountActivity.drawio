@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T22:24:18.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="VEPzdbTTZFW2sMoP5CGz" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-08-10T09:09:26.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="F8dbUg_ENWnlbBOd9B2z" version="14.8.0" type="github" pages="5">
   <diagram id="i1lQdOyH62CmWCrgiDlv" name="Facebook login Sequence Diagram">
-    <mxGraphModel dx="651" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="TrnmHSG4BdzwyE5MJGU8-0" />
         <mxCell id="TrnmHSG4BdzwyE5MJGU8-1" parent="TrnmHSG4BdzwyE5MJGU8-0" />
@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w1dErKIjIapuR6-p-dnD" name="로그인 activity">
-    <mxGraphModel dx="1315" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="u_kTxpH61WWehxEOvNpR-0" />
         <mxCell id="u_kTxpH61WWehxEOvNpR-1" parent="u_kTxpH61WWehxEOvNpR-0" />
@@ -340,7 +340,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rt5PsmfTOVGFWf7QO8p9-16" value="페이스북에 사용자 정보 요청&lt;br&gt;(이름, 이메일, 프로필이미지 url)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#f0a30a;strokeColor=#BD7000;" parent="u_kTxpH61WWehxEOvNpR-1" vertex="1">
+        <mxCell id="rt5PsmfTOVGFWf7QO8p9-16" value="페이스북에 사용자 정보 요청&lt;br&gt;(이름, 이메일)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#f0a30a;strokeColor=#BD7000;" parent="u_kTxpH61WWehxEOvNpR-1" vertex="1">
           <mxGeometry x="435" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rt5PsmfTOVGFWf7QO8p9-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="u_kTxpH61WWehxEOvNpR-1" source="rt5PsmfTOVGFWf7QO8p9-16" edge="1">
@@ -356,7 +356,7 @@
             <mxPoint x="760" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rt5PsmfTOVGFWf7QO8p9-20" value="success &amp;amp; 응답값이 유효함(providerId가 존재)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="u_kTxpH61WWehxEOvNpR-1" source="rt5PsmfTOVGFWf7QO8p9-18" edge="1">
+        <mxCell id="rt5PsmfTOVGFWf7QO8p9-20" value="success &amp;amp; 응답값이 유효함)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="u_kTxpH61WWehxEOvNpR-1" source="rt5PsmfTOVGFWf7QO8p9-18" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="495" y="740" as="targetPoint" />
           </mxGeometry>
@@ -364,7 +364,7 @@
         <mxCell id="rt5PsmfTOVGFWf7QO8p9-21" value="사용자 정보를&lt;br&gt;&amp;nbsp;인메모리캐싱&lt;br&gt;preferredInfo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#f0a30a;strokeColor=#BD7000;" parent="u_kTxpH61WWehxEOvNpR-1" vertex="1">
           <mxGeometry x="435" y="740" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rt5PsmfTOVGFWf7QO8p9-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="u_kTxpH61WWehxEOvNpR-1" edge="1" source="rt5PsmfTOVGFWf7QO8p9-21">
+        <mxCell id="rt5PsmfTOVGFWf7QO8p9-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="u_kTxpH61WWehxEOvNpR-1" source="rt5PsmfTOVGFWf7QO8p9-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="495" y="810" as="targetPoint" />
             <mxPoint x="499.5" y="820" as="sourcePoint" />
@@ -575,7 +575,7 @@
         <mxCell id="BVo44L1zqR6QUIQHMctz-6" value="로딩뷰 숨김&amp;nbsp;&lt;br&gt;(WalkthroughViewController&amp;gt;loginHUD)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#ffffff;fillColor=#d80073;strokeColor=#A50040;" parent="u_kTxpH61WWehxEOvNpR-1" vertex="1">
           <mxGeometry x="440" y="2680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BVo44L1zqR6QUIQHMctz-7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="u_kTxpH61WWehxEOvNpR-1" source="BVo44L1zqR6QUIQHMctz-6" edge="1" target="BVo44L1zqR6QUIQHMctz-16">
+        <mxCell id="BVo44L1zqR6QUIQHMctz-7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="u_kTxpH61WWehxEOvNpR-1" source="BVo44L1zqR6QUIQHMctz-6" target="BVo44L1zqR6QUIQHMctz-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="2740" as="targetPoint" />
           </mxGeometry>
@@ -635,7 +635,7 @@
             <mxPoint x="640" y="3080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVo44L1zqR6QUIQHMctz-22" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.675;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="u_kTxpH61WWehxEOvNpR-1" source="BVo44L1zqR6QUIQHMctz-20" edge="1" target="BVo44L1zqR6QUIQHMctz-29">
+        <mxCell id="BVo44L1zqR6QUIQHMctz-22" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.675;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="u_kTxpH61WWehxEOvNpR-1" source="BVo44L1zqR6QUIQHMctz-20" target="BVo44L1zqR6QUIQHMctz-29" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="500" y="3150" as="targetPoint" />
           </mxGeometry>
@@ -1576,7 +1576,7 @@
             <mxPoint x="1299" y="1880" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9-C9ZIuYJo7URsaUZIG-0" value="id 를 쓰는 곳이 없음" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="u_kTxpH61WWehxEOvNpR-1">
+        <mxCell id="x9-C9ZIuYJo7URsaUZIG-0" value="id 를 쓰는 곳이 없음" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" parent="u_kTxpH61WWehxEOvNpR-1" vertex="1">
           <mxGeometry x="280" y="1760" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
