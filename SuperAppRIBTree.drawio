@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T23:58:20.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="1n2JHCx1XsPNUWPwgChi" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T01:09:48.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FMyKi589h7J7Pdgw1bcF" version="16.3.0" type="github" pages="2">
   <diagram name="모노리틱" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,13 +37,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="62893188c0fa7362-16" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" target="62893188c0fa7362-10" edge="1">
+        <mxCell id="62893188c0fa7362-16" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" edge="1">
           <mxGeometry x="-0.2614" y="-13" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="815.4545454545455" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="62893188c0fa7362-17" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" target="62893188c0fa7362-11" edge="1">
+        <mxCell id="62893188c0fa7362-17" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" edge="1">
           <mxGeometry x="-0.1294" y="17" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="867.2727272727273" y="230" as="sourcePoint" />
@@ -62,33 +62,132 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PfWzKwXbH8oA-U0OxIN-1" value="SuperPayDashboard" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="9PfWzKwXbH8oA-U0OxIN-1" value="SuperPayDashboard" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="460" y="450" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9PfWzKwXbH8oA-U0OxIN-3" value="CardOnFileDashboard" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="9PfWzKwXbH8oA-U0OxIN-3" value="CardOnFileDashboard" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="630" y="450" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9PfWzKwXbH8oA-U0OxIN-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.417;exitY=1.05;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="62893188c0fa7362-9" target="9PfWzKwXbH8oA-U0OxIN-1">
+        <mxCell id="9PfWzKwXbH8oA-U0OxIN-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.417;exitY=1.05;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="62893188c0fa7362-9" target="9PfWzKwXbH8oA-U0OxIN-1" edge="1">
           <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="318.695652173913" y="350" as="sourcePoint" />
             <mxPoint x="261.304347826087" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PfWzKwXbH8oA-U0OxIN-5" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="62893188c0fa7362-9" target="9PfWzKwXbH8oA-U0OxIN-3">
+        <mxCell id="9PfWzKwXbH8oA-U0OxIN-5" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="62893188c0fa7362-9" target="9PfWzKwXbH8oA-U0OxIN-3" edge="1">
           <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="328.695652173913" y="360" as="sourcePoint" />
             <mxPoint x="271.304347826087" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PfWzKwXbH8oA-U0OxIN-6" value="&lt;span&gt;Topup&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="9PfWzKwXbH8oA-U0OxIN-6" value="&lt;span&gt;Topup&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="450" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9PfWzKwXbH8oA-U0OxIN-7" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="9PfWzKwXbH8oA-U0OxIN-6" source="62893188c0fa7362-9">
+        <mxCell id="9PfWzKwXbH8oA-U0OxIN-7" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="62893188c0fa7362-9" target="9PfWzKwXbH8oA-U0OxIN-6" edge="1">
           <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="440" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O2dQe3FsyVryv0MdjhfP" name="충전플로우">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-0" />
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-1" parent="LVQhKOfmuJwNaF2M5kVG-0" />
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-16" value="슈퍼페이 홈" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="LVQhKOfmuJwNaF2M5kVG-1">
+          <mxGeometry x="350" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="LVQhKOfmuJwNaF2M5kVG-16" parent="LVQhKOfmuJwNaF2M5kVG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-18" value="카드 추가" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="LVQhKOfmuJwNaF2M5kVG-1">
+          <mxGeometry x="200" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" source="LVQhKOfmuJwNaF2M5kVG-18" parent="LVQhKOfmuJwNaF2M5kVG-1" target="LVQhKOfmuJwNaF2M5kVG-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="580" />
+              <mxPoint x="160" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-33" value="카드 추가 버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LVQhKOfmuJwNaF2M5kVG-19">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint y="53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="LVQhKOfmuJwNaF2M5kVG-1" source="LVQhKOfmuJwNaF2M5kVG-20" target="LVQhKOfmuJwNaF2M5kVG-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="580" />
+              <mxPoint x="660" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-26" value="충전 버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LVQhKOfmuJwNaF2M5kVG-25">
+          <mxGeometry x="-0.2564" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-20" value="충전하기" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="LVQhKOfmuJwNaF2M5kVG-1">
+          <mxGeometry x="490" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="LVQhKOfmuJwNaF2M5kVG-20" parent="LVQhKOfmuJwNaF2M5kVG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-29" value="카드 교체 버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LVQhKOfmuJwNaF2M5kVG-21">
+          <mxGeometry x="-0.1333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-22" value="보유 카드 개수" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="LVQhKOfmuJwNaF2M5kVG-1">
+          <mxGeometry x="370" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-23" value="1 개 이상" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="LVQhKOfmuJwNaF2M5kVG-22" parent="LVQhKOfmuJwNaF2M5kVG-1" target="LVQhKOfmuJwNaF2M5kVG-20">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="550" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-24" value="0 개" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="LVQhKOfmuJwNaF2M5kVG-22" parent="LVQhKOfmuJwNaF2M5kVG-1" target="LVQhKOfmuJwNaF2M5kVG-18">
+          <mxGeometry x="-0.3333" y="-20" relative="1" as="geometry">
+            <mxPoint x="410" y="600" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="LVQhKOfmuJwNaF2M5kVG-1" source="LVQhKOfmuJwNaF2M5kVG-27" target="LVQhKOfmuJwNaF2M5kVG-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="680" />
+              <mxPoint x="660" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-32" value="교체할 카드 선택" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LVQhKOfmuJwNaF2M5kVG-31">
+          <mxGeometry x="-0.0211" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-27" value="카드 교체" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="LVQhKOfmuJwNaF2M5kVG-1">
+          <mxGeometry x="490" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="LVQhKOfmuJwNaF2M5kVG-27" parent="LVQhKOfmuJwNaF2M5kVG-1" target="LVQhKOfmuJwNaF2M5kVG-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LVQhKOfmuJwNaF2M5kVG-30" value="카드 추가 버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LVQhKOfmuJwNaF2M5kVG-28">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
