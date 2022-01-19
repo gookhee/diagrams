@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T22:58:35.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pN0gr_Ah-F_2n8nUfPj5" version="16.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-19T23:12:00.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xjkYealN8a_SM6sdeQWo" version="16.3.0" type="github" pages="3">
   <diagram name="모노리틱 - RIB tree" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
         <mxCell id="hmG6ZywRCx4mFB9PTBx_-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d1stwIL1tShtcOhqTAWZ-1" source="hmG6ZywRCx4mFB9PTBx_-1" target="hmG6ZywRCx4mFB9PTBx_-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmG6ZywRCx4mFB9PTBx_-1" value="슈퍼페이" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="d1stwIL1tShtcOhqTAWZ-1">
+        <mxCell id="hmG6ZywRCx4mFB9PTBx_-1" value="슈퍼페이 홈" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="d1stwIL1tShtcOhqTAWZ-1">
           <mxGeometry x="350" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hmG6ZywRCx4mFB9PTBx_-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="d1stwIL1tShtcOhqTAWZ-1" source="hmG6ZywRCx4mFB9PTBx_-1">
@@ -255,7 +255,7 @@
         <mxCell id="hmG6ZywRCx4mFB9PTBx_-23" value="닫기 버튼" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" edge="1" parent="d1stwIL1tShtcOhqTAWZ-1" source="hmG6ZywRCx4mFB9PTBx_-4" target="hmG6ZywRCx4mFB9PTBx_-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hmG6ZywRCx4mFB9PTBx_-4" value="카드 추가" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="d1stwIL1tShtcOhqTAWZ-1">
+        <mxCell id="hmG6ZywRCx4mFB9PTBx_-4" value="카드 추가" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d1stwIL1tShtcOhqTAWZ-1">
           <mxGeometry x="200" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hmG6ZywRCx4mFB9PTBx_-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="d1stwIL1tShtcOhqTAWZ-1" source="hmG6ZywRCx4mFB9PTBx_-4" target="hmG6ZywRCx4mFB9PTBx_-9">
@@ -381,6 +381,47 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q1_g8exkwWRXPIXkSTgO-0" value="슈퍼페이 홈" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="d1stwIL1tShtcOhqTAWZ-1">
+          <mxGeometry x="290" y="730" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q1_g8exkwWRXPIXkSTgO-1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="q1_g8exkwWRXPIXkSTgO-0" parent="d1stwIL1tShtcOhqTAWZ-1" target="q1_g8exkwWRXPIXkSTgO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1_g8exkwWRXPIXkSTgO-2" value="카드 추가 버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1_g8exkwWRXPIXkSTgO-1">
+          <mxGeometry x="0.0067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1_g8exkwWRXPIXkSTgO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.207;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="d1stwIL1tShtcOhqTAWZ-1" source="q1_g8exkwWRXPIXkSTgO-3" target="q1_g8exkwWRXPIXkSTgO-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="344" y="820" />
+              <mxPoint x="344" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1_g8exkwWRXPIXkSTgO-8" value="닫기 버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1_g8exkwWRXPIXkSTgO-5">
+          <mxGeometry x="0.0223" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1_g8exkwWRXPIXkSTgO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.825;entryY=1.095;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="d1stwIL1tShtcOhqTAWZ-1" source="q1_g8exkwWRXPIXkSTgO-3" target="q1_g8exkwWRXPIXkSTgO-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1_g8exkwWRXPIXkSTgO-9" value="카드 추가 버튼" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q1_g8exkwWRXPIXkSTgO-7">
+          <mxGeometry x="0.1601" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1_g8exkwWRXPIXkSTgO-3" value="카드 추가" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d1stwIL1tShtcOhqTAWZ-1">
+          <mxGeometry x="290" y="850" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
