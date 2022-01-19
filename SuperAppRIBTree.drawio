@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T01:16:43.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="SC22mpT-K58kycjxhKCS" version="16.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-19T03:41:21.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="qW5AymdtYB9RkmlypJiU" version="16.3.0" type="github" pages="3">
   <diagram name="모노리틱" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -91,10 +91,40 @@
             <mxPoint x="440" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="y6WYlPjCAw1F6vIGHk2b-1" value="&lt;span&gt;CardOnFile&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6WYlPjCAw1F6vIGHk2b-2" value="&lt;span&gt;EnterAmount&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="570" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6WYlPjCAw1F6vIGHk2b-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PfWzKwXbH8oA-U0OxIN-6" target="y6WYlPjCAw1F6vIGHk2b-1">
+          <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="350" as="sourcePoint" />
+            <mxPoint x="399.2857142857142" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6WYlPjCAw1F6vIGHk2b-5" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PfWzKwXbH8oA-U0OxIN-6" target="y6WYlPjCAw1F6vIGHk2b-2">
+          <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="350" as="sourcePoint" />
+            <mxPoint x="399.2857142857142" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y6WYlPjCAw1F6vIGHk2b-6" value="&lt;span&gt;AddPaymentMethod&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="570" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6WYlPjCAw1F6vIGHk2b-7" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PfWzKwXbH8oA-U0OxIN-6" target="y6WYlPjCAw1F6vIGHk2b-6">
+          <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="380" y="520" as="sourcePoint" />
+            <mxPoint x="380" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="O2dQe3FsyVryv0MdjhfP" name="충전플로우">
+  <diagram id="O2dQe3FsyVryv0MdjhfP" name="충전플로우 - 화면전환">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LVQhKOfmuJwNaF2M5kVG-0" />
@@ -208,6 +238,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BkAS84lDFmW9iYCkuGU4" name="충전플로우 - Topup RIB">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="d1stwIL1tShtcOhqTAWZ-0" />
+        <mxCell id="d1stwIL1tShtcOhqTAWZ-1" parent="d1stwIL1tShtcOhqTAWZ-0" />
       </root>
     </mxGraphModel>
   </diagram>
