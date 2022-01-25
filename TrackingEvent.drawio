@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T03:10:29.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sXVnZNXirMBK54LzT-EO" version="16.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-25T03:13:42.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Uk_EnoSioYMGEpm5LCfB" version="16.4.2" type="github" pages="2">
   <diagram id="EHIDcn3dvRNnEy99S8y_" name="기존">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="dTNlWitsgGI8YY_V3tl7-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="dTNlWitsgGI8YY_V3tl7-13">
           <mxGeometry y="70" width="270" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="dTNlWitsgGI8YY_V3tl7-16" value="«interface»&lt;br&gt;&lt;span style=&quot;font-weight: 700&quot;&gt;TrackingEventType&lt;/span&gt;" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KmKnW88E0VhbfAg1BoVY-1">
+        <mxCell id="dTNlWitsgGI8YY_V3tl7-16" value="«interface»&lt;br&gt;&lt;span style=&quot;font-weight: 700&quot;&gt;TrackingEventType&lt;/span&gt;" style="html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="KmKnW88E0VhbfAg1BoVY-1">
           <mxGeometry x="910" y="302" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dTNlWitsgGI8YY_V3tl7-20" value="TrackerType" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KmKnW88E0VhbfAg1BoVY-1">
