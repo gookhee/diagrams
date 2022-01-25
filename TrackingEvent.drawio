@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T03:13:42.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Uk_EnoSioYMGEpm5LCfB" version="16.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-25T03:14:29.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="g8EddV00aQoTEOVlA2yv" version="16.4.2" type="github" pages="2">
   <diagram id="EHIDcn3dvRNnEy99S8y_" name="기존">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -342,8 +342,7 @@
         <mxCell id="dTNlWitsgGI8YY_V3tl7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="KmKnW88E0VhbfAg1BoVY-1" source="dTNlWitsgGI8YY_V3tl7-37" target="dTNlWitsgGI8YY_V3tl7-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="500" />
-              <mxPoint x="775" y="500" />
+              <mxPoint x="775" y="529" />
               <mxPoint x="775" y="498" />
             </Array>
           </mxGeometry>
@@ -351,14 +350,19 @@
         <mxCell id="dTNlWitsgGI8YY_V3tl7-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="KmKnW88E0VhbfAg1BoVY-1" source="dTNlWitsgGI8YY_V3tl7-39" target="dTNlWitsgGI8YY_V3tl7-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="540" />
+              <mxPoint x="730" y="540" />
               <mxPoint x="815" y="540" />
               <mxPoint x="815" y="538" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dTNlWitsgGI8YY_V3tl7-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="KmKnW88E0VhbfAg1BoVY-1" source="dTNlWitsgGI8YY_V3tl7-39" target="dTNlWitsgGI8YY_V3tl7-66">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="588" />
+              <mxPoint x="800" y="588" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dTNlWitsgGI8YY_V3tl7-80" value="FacebookAdapter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="KmKnW88E0VhbfAg1BoVY-1">
           <mxGeometry x="270" y="710" width="160" height="60" as="geometry" />
