@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T07:44:54.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="R_kJSzABQgNp5JyHURG0" version="16.4.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-27T07:46:28.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="mJE2s1TvaQeTsf4mSgfE" version="16.4.7" type="github" pages="5">
   <diagram name="모노리틱 - RIB tree" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="3170" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -641,11 +641,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F398W_r9fXOy3Yz65rjq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;" parent="QMUzo6F0yX5g-_sg3WUj-1" source="QMUzo6F0yX5g-_sg3WUj-21" target="QMUzo6F0yX5g-_sg3WUj-12" edge="1">
+        <mxCell id="F398W_r9fXOy3Yz65rjq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=block;endFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="QMUzo6F0yX5g-_sg3WUj-1" source="QMUzo6F0yX5g-_sg3WUj-21" target="QMUzo6F0yX5g-_sg3WUj-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1360" y="390" />
-              <mxPoint x="1360" y="390" />
+              <mxPoint x="1090" y="370" />
+              <mxPoint x="1090" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
