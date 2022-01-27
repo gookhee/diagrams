@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T07:03:55.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="2p_0cTPE__jXsla7Tyda" version="16.4.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-27T07:05:00.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="6ZEO3Wx9dZB1YFG4UAhM" version="16.4.7" type="github" pages="5">
   <diagram name="모노리틱 - RIB tree" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="3377" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -875,10 +875,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A1es47SycuCJYg-D72XP-1" value="Router" style="swimlane;" vertex="1" parent="QMUzo6F0yX5g-_sg3WUj-1">
-          <mxGeometry x="20" y="30" width="530" height="680" as="geometry" />
+          <mxGeometry x="10" y="29" width="580" height="681" as="geometry" />
         </mxCell>
         <mxCell id="A1es47SycuCJYg-D72XP-2" value="Interactor" style="swimlane;" vertex="1" parent="QMUzo6F0yX5g-_sg3WUj-1">
-          <mxGeometry x="700" y="30" width="400" height="680" as="geometry" />
+          <mxGeometry x="660" y="30" width="440" height="690" as="geometry" />
         </mxCell>
         <mxCell id="A1es47SycuCJYg-D72XP-3" value="View / Presenter" style="swimlane;" vertex="1" parent="QMUzo6F0yX5g-_sg3WUj-1">
           <mxGeometry x="1130" y="30" width="460" height="680" as="geometry" />
