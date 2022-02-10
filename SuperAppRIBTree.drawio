@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T04:17:48.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="F5tCH3mtOgsfA4lZ8fKT" version="16.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-10T04:17:57.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="MxE3HFQNEKUFMSwt1pAH" version="16.5.3" type="github" pages="4">
   <diagram name="모노리틱 - RIB tree" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="2526" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
         <mxCell id="hmG6ZywRCx4mFB9PTBx_-20" value="충천하기에서 진입?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="d1stwIL1tShtcOhqTAWZ-1" vertex="1">
           <mxGeometry x="190" y="660" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hmG6ZywRCx4mFB9PTBx_-21" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=block;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="d1stwIL1tShtcOhqTAWZ-1" source="hmG6ZywRCx4mFB9PTBx_-20" target="hmG6ZywRCx4mFB9PTBx_-17" edge="1">
+        <mxCell id="hmG6ZywRCx4mFB9PTBx_-21" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classic;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="d1stwIL1tShtcOhqTAWZ-1" source="hmG6ZywRCx4mFB9PTBx_-20" target="hmG6ZywRCx4mFB9PTBx_-17" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="402" y="650" as="targetPoint" />
             <Array as="points">
