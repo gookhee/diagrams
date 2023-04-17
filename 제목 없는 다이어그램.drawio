@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T06:55:10.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0cPQzxYtGMNDaV-pLNF2" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:02:08.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="T10WA4xzqqyH8DqRYtkW" version="21.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="로그인화면 Navigation">
-    <mxGraphModel dx="887" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="887" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,6 +25,9 @@
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-0" value="SignInView" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="370" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.885;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YZ1DASDXdoZ81Dy0Z4KV-2" target="YZ1DASDXdoZ81Dy0Z4KV-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-2" value="AccountListView" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="377" y="8" width="200" height="60" as="geometry" />
         </mxCell>
@@ -46,6 +49,15 @@
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-7" value="회원가입" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YZ1DASDXdoZ81Dy0Z4KV-6">
           <mxGeometry x="69" y="30" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YZ1DASDXdoZ81Dy0Z4KV-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="500" />
+              <mxPoint x="200" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-8" value="ThridPartySignUpView" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="410" width="200" height="70" as="geometry" />
         </mxCell>
@@ -66,11 +78,28 @@
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-11" value="계정 찾기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YZ1DASDXdoZ81Dy0Z4KV-10">
           <mxGeometry x="69" y="30" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YZ1DASDXdoZ81Dy0Z4KV-14" target="YZ1DASDXdoZ81Dy0Z4KV-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="780" />
+              <mxPoint x="110" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-14" value="PasswordLinkEmailView" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="670" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-15" value="계정 연결&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YZ1DASDXdoZ81Dy0Z4KV-14">
           <mxGeometry x="69" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YZ1DASDXdoZ81Dy0Z4KV-16" target="YZ1DASDXdoZ81Dy0Z4KV-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="-50" />
+              <mxPoint x="210" y="-50" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-16" value="ResetPasswordView" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="150" width="200" height="70" as="geometry" />
@@ -79,6 +108,9 @@
           <mxGeometry x="54" y="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YZ1DASDXdoZ81Dy0Z4KV-18" target="YZ1DASDXdoZ81Dy0Z4KV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YZ1DASDXdoZ81Dy0Z4KV-18" target="YZ1DASDXdoZ81Dy0Z4KV-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-18" value="PasswordLinkView" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -90,11 +122,39 @@
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-21" value="로그인" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="125" y="405" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.955;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YZ1DASDXdoZ81Dy0Z4KV-22" target="YZ1DASDXdoZ81Dy0Z4KV-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-22" value="AccountListView" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="58" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-23" value="계정 찾기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YZ1DASDXdoZ81Dy0Z4KV-22">
           <mxGeometry x="69" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-40" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="170" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="210" as="sourcePoint" />
+            <mxPoint x="120" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-39" value="push" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YZ1DASDXdoZ81Dy0Z4KV-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-41" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="21" y="251" as="sourcePoint" />
+            <mxPoint x="121" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-42" value="pop" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="YZ1DASDXdoZ81Dy0Z4KV-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
