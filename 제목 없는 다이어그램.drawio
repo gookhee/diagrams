@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:02:08.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="T10WA4xzqqyH8DqRYtkW" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:04:17.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="T0pJVApIXzqhd_y9sTfq" version="21.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="로그인화면 Navigation">
-    <mxGraphModel dx="887" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1267" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -132,7 +132,7 @@
           <mxGeometry x="69" y="30" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-40" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="170" width="180" height="140" as="geometry" />
+          <mxGeometry x="10" y="80" width="180" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -155,6 +155,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-49" value="{View 이름 }" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ1DASDXdoZ81Dy0Z4KV-50" value="{네비게이션 타이틀}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YZ1DASDXdoZ81Dy0Z4KV-49">
+          <mxGeometry x="10" y="30" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
