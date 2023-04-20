@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T04:19:09.185Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="o1WNU2IUEyjO6FP4YBIK" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-20T04:28:59.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="U_SCVIV93Ess0h2EuKO_" version="21.1.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="로그인화면 Navigation">
     <mxGraphModel dx="1434" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-jJvfHTX61WG-e6yDjH-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;SignInNavigationBuilderContainable&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ accountListBuilder: AccountListBuildingLogic&lt;/p&gt;&amp;nbsp;+ passwordBuilder: PasswordBuildingLogic&lt;br&gt;&amp;nbsp;+ passwordLinkBuilder: PasswordLinkBuildingLogic&lt;br&gt;&amp;nbsp;+ emailSignUpBuilder: EmailSignUpBuildingLogic&lt;br&gt;&amp;nbsp;+ thirdPartySignUpBuilder: ThirdPartySignUpBuildingLogic&lt;br&gt;&amp;nbsp;+ emailFindBuilder: EmailFindBuildingLogic&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="195" y="570" width="330" height="140" as="geometry" />
+          <mxGeometry x="1130" y="420" width="330" height="140" as="geometry" />
         </mxCell>
         <mxCell id="h-jJvfHTX61WG-e6yDjH-9" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;SignInNavigationBuilderContainer&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="827" y="220" width="240" height="90" as="geometry" />
@@ -289,7 +289,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1260" y="320" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1260" y="630" />
+              <mxPoint x="1260" y="380" />
+              <mxPoint x="1295" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -308,7 +309,7 @@
           <mxGeometry x="1480" y="260" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="h-jJvfHTX61WG-e6yDjH-37" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;NavigationStack&amp;lt;Data, Root&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ path: Binding&amp;lt;Data&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1414" y="520" width="240" height="90" as="geometry" />
+          <mxGeometry x="1520" y="560" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
