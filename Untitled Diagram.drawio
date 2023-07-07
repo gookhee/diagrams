@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T07:10:49.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="imRDMqWX1qd6ioRvv-LL" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T06:56:18.340Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yWfZZkciZQfj9p2q7I4X" version="21.3.7" type="github" pages="2">
   <diagram id="GfeuRMPr9Bc08lo4q1Z1" name="Onboarding Quest Action">
-    <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oKqIJiOsQRa1msyX4qbT-0" />
         <mxCell id="oKqIJiOsQRa1msyX4qbT-1" parent="oKqIJiOsQRa1msyX4qbT-0" />
@@ -180,12 +180,20 @@
         <mxCell id="N5BEuGpKn1VU8BgDQQzN-5" value="레파지토리" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" parent="N5BEuGpKn1VU8BgDQQzN-4" vertex="1">
           <mxGeometry width="190" height="25" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6v7_YYrPjZFKKjOBIPkB-0" value="&lt;span style=&quot;text-align: center&quot;&gt;사용자가 미션을 달성할 수 있는 액션을 수행했고 서버에도 전달되어 성공 응답을 받았다&lt;/span&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;" vertex="1" parent="oKqIJiOsQRa1msyX4qbT-1">
+        <mxCell id="6v7_YYrPjZFKKjOBIPkB-0" value="&lt;span style=&quot;text-align: center&quot;&gt;사용자가 미션을 달성할 수 있는 액션을 수행했고 서버에도 전달되어 성공 응답을 받았다&lt;/span&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;" parent="oKqIJiOsQRa1msyX4qbT-1" vertex="1">
           <mxGeometry x="320" y="50" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6v7_YYrPjZFKKjOBIPkB-1" value="액션 수행 보고가 시작되는 조건" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="6v7_YYrPjZFKKjOBIPkB-0">
+        <mxCell id="6v7_YYrPjZFKKjOBIPkB-1" value="액션 수행 보고가 시작되는 조건" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" parent="6v7_YYrPjZFKKjOBIPkB-0" vertex="1">
           <mxGeometry width="190" height="25" relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tQuQh1S3wl_r4TE1eyHc" name="MyProfileRepository">
+    <mxGraphModel dx="1242" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
