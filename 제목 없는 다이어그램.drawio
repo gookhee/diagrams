@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T00:45:36.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7qkwu2HirtuBxvPKpzA-" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-22T00:46:33.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mbtfyXizuvc_JbWjZDNW" version="21.6.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="로그인화면 Navigation">
     <mxGraphModel dx="1242" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -434,7 +434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-3" value="국가==KR" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="535" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="T4kCXRY-dh_gCEJvznJF-3" parent="1" target="T4kCXRY-dh_gCEJvznJF-10">
           <mxGeometry x="-0.4288" y="-20" relative="1" as="geometry">
@@ -449,7 +449,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-10" value="워크쓰루 노출 필요&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="290" y="282" width="150" height="40" as="geometry" />
+          <mxGeometry x="270" y="282" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" source="T4kCXRY-dh_gCEJvznJF-10" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -554,7 +554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-24" value="신규회원" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="720" y="710" width="80" height="42" as="geometry" />
+          <mxGeometry x="710" y="710" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="T4kCXRY-dh_gCEJvznJF-24" parent="1" target="T4kCXRY-dh_gCEJvznJF-46">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -587,7 +587,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-27" value="로그인 성공" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="720" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="710" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" source="T4kCXRY-dh_gCEJvznJF-27" parent="1" target="T4kCXRY-dh_gCEJvznJF-37">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -633,10 +633,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-40" value="워크쓰루 노출 필요 = no" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="305" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="470" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-46" value="로그인 콜백 O" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="720" y="918" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="918" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-47" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="T4kCXRY-dh_gCEJvznJF-46" parent="1" target="T4kCXRY-dh_gCEJvznJF-37">
           <mxGeometry x="-0.6091" relative="1" as="geometry">
