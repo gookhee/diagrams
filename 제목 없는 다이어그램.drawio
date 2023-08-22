@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T00:46:57.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3I2jDULSl3XmJKKFIkYh" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-22T10:02:14.888Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="B__p5BidjCsmfbM7mclY" version="21.6.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="로그인화면 Navigation">
     <mxGraphModel dx="1242" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2AExzzwJCr03dC0MKQVC" name="로그인">
-    <mxGraphModel dx="920" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,7 +433,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4kCXRY-dh_gCEJvznJF-3" value="국가==KR" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="T4kCXRY-dh_gCEJvznJF-3" value="국가 == KR" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="510" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="T4kCXRY-dh_gCEJvznJF-3" parent="1" target="T4kCXRY-dh_gCEJvznJF-10">
@@ -666,6 +666,55 @@
         </mxCell>
         <mxCell id="T4kCXRY-dh_gCEJvznJF-60" value="이벤트 유형" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="325" y="542" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A7jswFzSZIRE5zT6zJlk" name="워크쓰루표시여부">
+    <mxGraphModel dx="1242" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl22w2PoAFRx3kNWuHS1-6" target="Bl22w2PoAFRx3kNWuHS1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-26" value="워크쓰루 닫기" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bl22w2PoAFRx3kNWuHS1-25">
+          <mxGeometry x="0.0323" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-6" value="워크쓰루 표시 필요 == true" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl22w2PoAFRx3kNWuHS1-7" target="Bl22w2PoAFRx3kNWuHS1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-7" value="워크쓰루 표시 필요 == false" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl22w2PoAFRx3kNWuHS1-16" target="Bl22w2PoAFRx3kNWuHS1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-22" value="Intro 에서 자동 로그인 실패 [워크쓰루 표시 필요 값이 없음]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bl22w2PoAFRx3kNWuHS1-21">
+          <mxGeometry x="-0.3313" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-16" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Bl22w2PoAFRx3kNWuHS1-16" parent="1" target="Bl22w2PoAFRx3kNWuHS1-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-19" value="Intro 에서 자동 로그인 성공 [워크쓰루 표시 필요 값이 없음]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bl22w2PoAFRx3kNWuHS1-17">
+          <mxGeometry x="-0.1406" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bl22w2PoAFRx3kNWuHS1-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="505" y="640" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
