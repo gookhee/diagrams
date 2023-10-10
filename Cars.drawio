@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T12:05:12.138Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xysvCz4ewC0uq6HaQ6rw" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T22:33:01.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="UIqNjQ7242z-qWcRphwz" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Class">
     <mxGraphModel dx="867" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,13 +19,8 @@
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-5" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="mL3Gv7UYM2EhH2xch4jW-2">
           <mxGeometry y="56" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mL3Gv7UYM2EhH2xch4jW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mL3Gv7UYM2EhH2xch4jW-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-6" value="NearbyZoneFinderReactor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="460" width="250" height="60" as="geometry" />
+          <mxGeometry x="90" y="644" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-7" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;+ zoneListRepository:&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); text-align: center; font-size: 9px;&quot;&gt;ZoneListRepositoryProtocol&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="mL3Gv7UYM2EhH2xch4jW-6">
           <mxGeometry y="26" width="250" height="26" as="geometry" />
@@ -34,7 +29,7 @@
           <mxGeometry y="52" width="250" height="8" as="geometry" />
         </mxCell>
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-10" value="ZoneProductListReactor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="460" width="160" height="86" as="geometry" />
+          <mxGeometry x="400" y="644" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-11" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="mL3Gv7UYM2EhH2xch4jW-10">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -46,7 +41,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-14" value="FavoriteZonesReactor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="460" width="160" height="86" as="geometry" />
+          <mxGeometry x="630" y="644" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-15" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="mL3Gv7UYM2EhH2xch4jW-14">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -68,7 +63,7 @@
             <mxPoint x="365" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mL3Gv7UYM2EhH2xch4jW-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ZoneListRepositoryProtocol&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ mapper: ZoneListMappable&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ zoneService: ZoneServiceProtocol&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getZoneList() -&amp;gt; ZoneList&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mL3Gv7UYM2EhH2xch4jW-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ZoneListRepositoryProtocol&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ mapper: ZoneListMappable&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ zoneService: ZoneServiceProtocol&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getZoneList() -&amp;gt; Observable&amp;lt;ZoneList&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="280" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -154,6 +149,15 @@
           <mxGeometry y="56" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mL3Gv7UYM2EhH2xch4jW-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.576;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mL3Gv7UYM2EhH2xch4jW-52" target="mL3Gv7UYM2EhH2xch4jW-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mL3Gv7UYM2EhH2xch4jW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mL3Gv7UYM2EhH2xch4jW-58" target="mL3Gv7UYM2EhH2xch4jW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mL3Gv7UYM2EhH2xch4jW-58" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;CachedZoneListRepositoryProtocol&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ init(repository: ZoneListRepositoryProtocol)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="455" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mL3Gv7UYM2EhH2xch4jW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.324;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mL3Gv7UYM2EhH2xch4jW-6" target="mL3Gv7UYM2EhH2xch4jW-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
