@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T16:20:04.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4pDPN-wiNVuFZZ9sNFMm" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-20T20:36:50.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yAhylQYbDRRV2_0Xj1ly" version="22.0.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="앱 구조">
     <mxGraphModel dx="1871" dy="2794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,7 +250,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qV9dtkKDM83VpcIvSNYY-20" value="AppRootTabBarComponent" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="148" y="-1440" width="245" height="110" as="geometry" />
+          <mxGeometry x="148" y="-1440" width="245" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qV9dtkKDM83VpcIvSNYY-21" value="+ dependency: AppRootTabBarDependency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#1D3557;labelBackgroundColor=none;" vertex="1" parent="qV9dtkKDM83VpcIvSNYY-20">
           <mxGeometry y="26" width="245" height="26" as="geometry" />
@@ -259,7 +259,7 @@
           <mxGeometry y="52" width="245" height="8" as="geometry" />
         </mxCell>
         <mxCell id="qV9dtkKDM83VpcIvSNYY-23" value="+&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#1D3557;labelBackgroundColor=none;" vertex="1" parent="qV9dtkKDM83VpcIvSNYY-20">
-          <mxGeometry y="60" width="245" height="50" as="geometry" />
+          <mxGeometry y="60" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wJVIDxZSe6af5n8GzBAR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKSyw90vDUKy_qGMjMjY-1" target="wJVIDxZSe6af5n8GzBAR-25">
           <mxGeometry relative="1" as="geometry">
@@ -267,13 +267,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wJVIDxZSe6af5n8GzBAR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="cKSyw90vDUKy_qGMjMjY-1" target="cKSyw90vDUKy_qGMjMjY-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="-1530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wJVIDxZSe6af5n8GzBAR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="cKSyw90vDUKy_qGMjMjY-1" target="wJVIDxZSe6af5n8GzBAR-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cKSyw90vDUKy_qGMjMjY-1" value="AppRootTabBarBuilder" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-1416" width="250" height="86" as="geometry" />
+          <mxGeometry x="670" y="-1444" width="250" height="86" as="geometry" />
         </mxCell>
         <mxCell id="cKSyw90vDUKy_qGMjMjY-2" value="+ dependency: AppRootTabBarDependency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#1D3557;labelBackgroundColor=none;" vertex="1" parent="cKSyw90vDUKy_qGMjMjY-1">
           <mxGeometry y="26" width="250" height="26" as="geometry" />
@@ -361,7 +365,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wJVIDxZSe6af5n8GzBAR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.014;entryY=0.151;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="cKSyw90vDUKy_qGMjMjY-1" target="qV9dtkKDM83VpcIvSNYY-23">
+        <mxCell id="wJVIDxZSe6af5n8GzBAR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="cKSyw90vDUKy_qGMjMjY-1" target="qV9dtkKDM83VpcIvSNYY-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wJVIDxZSe6af5n8GzBAR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="wJVIDxZSe6af5n8GzBAR-13" target="wJVIDxZSe6af5n8GzBAR-16">
